@@ -1,9 +1,9 @@
 
 # My Name
-AVULA SHIVA PRASAD
+**_AVULA SHIVA PRASAD_**
 
 ## Bio
-I'm a computer science student with a passion for technology and creativity. I love exploring new programming languages and building impactful projects.
+_I'm a computer science student with a passion for technology and creativity. I love exploring new programming languages and building impactful projects._
 
 ## Hobbies
 * Listening to music 🎶
@@ -31,6 +31,6 @@ I'm a computer science student with a passion for technology and creativity. I l
 * Chess
 
 ## Photos
-![Profile Photo](C:\Users\avula\OneDrive\Desktop\animeslub\WhatsApp Image 2024-10-31 at 12.35.58_3b68bd28.jpg) 
+![Profile Photo]("C:\Users\avula\OneDrive\Desktop\animeslub\WhatsApp Image 2024-10-31 at 12.35.58_3b68bd28.jpg") 
 
 
