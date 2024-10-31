@@ -31,6 +31,6 @@ _I'm a computer science student with a passion for technology and creativity. I 
 * Chess
 
 ## Photos
-![Profile Photo]("C:\Users\avula\OneDrive\Desktop\animeslub\WhatsApp Image 2024-10-31 at 12.35.58_3b68bd28.jpg") 
+![Profile Photo](https://avatars.githubusercontent.com/u/186797003?s=400&u=b6e6f07afd0fd6cb2bfe02cb8e5e4047eba58feb&v=4) 
 
 
